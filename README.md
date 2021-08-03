@@ -1,2 +1,2 @@
 # LangevinOnMullerBrown
-Jupyter notebook with Python code for demonstrating Langevin dynamics simulations on a 2D potential. A detailed description of everything can be found in Langevin_Dynamics.ipynb.
+Jupyter notebook with Python code for demonstrating Langevin dynamics simulations on a 2D potential called a Müller-Brown potential. Langevin dynamics is a molecular dynamics simulation methodology used to simulate molecular systems interacting with a solvent environment. Applying Langevin dynamics to low dimensional models, like the Müller-Brown potential, is helpful both as a heuristic and as a test system for enhanced sampling methods development. A detailed description of everything can be found in Langevin_Dynamics.ipynb.
